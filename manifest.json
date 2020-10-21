@@ -1,0 +1,9 @@
+{
+  "name": "Tabla",
+  "short_name": "Tabla",
+  "lang": "es-ES",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "whithe",
+  "theme_color": "white"
+}

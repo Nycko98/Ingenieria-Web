@@ -1,0 +1,111 @@
+body {
+  margin: 0px;
+  background-color: #e4e4e4;
+  padding: 10px;
+  color: #000000;
+}
+a {
+  color: #FFAACC;
+}
+
+.ciencias{
+  background-color: #00796b;
+  color: #e4e4e4;
+}
+
+.ciencias:hover{
+  background-color: #e4e4e4;
+  color: #000000;
+}
+
+.ingenieria{
+  background-color: #084d6e;
+  color: #e4e4e4;
+}
+
+.ingenieria:hover{
+  background-color: #e4e4e4;
+  color: #000000;
+}
+
+.paleontologia{
+  background-color: #0097a7;
+  color: #e4e4e4;
+}
+
+.paleontologia:hover{
+  background-color: #e4e4e4;
+  color: #000000;
+}
+
+.matematicas{
+  background-color: #8673a1;
+  color: #e4e4e4;
+}
+
+.matematicas:hover{
+  background-color: #e4e4e4;
+  color: #000000;
+}
+
+.astronomia{
+  background-color: #cb3234;
+  color: #e4e4e4;
+}
+
+.astronomia:hover{
+  background-color: #e4e4e4;
+  color: #000000;
+}
+
+.fisica{
+  background-color: #ff8000;
+  color: #e4e4e4;
+}
+
+.fisica:hover{
+  background-color: #e4e4e4;
+  color: #000000;
+}
+
+.quimica{
+  background-color: #f8f32b;
+  color: #000000;
+}
+
+.quimica:hover{
+  background-color: #e4e4e4;
+  color: #000000;
+}
+
+.biologia{
+  background-color: #8db600;
+  color: #e4e4e4;
+}
+
+.biologia:hover{
+  background-color: #e4e4e4;
+  color: #000000;
+}
+
+.primatologia{
+  background-color: #00bcd4;
+  color: #e4e4e4;
+}
+
+.primatologia:hover{
+  background-color: #e4e4e4;
+  color: #000000;
+}
+
+table{
+  border-collapse: separate;
+  margin: 15px;
+  text-align: center;
+  font-family: "Segoe IU";
+}
+
+.titulo{
+  margin: 15px;
+  font-family: fantasy;
+}
